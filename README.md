@@ -77,8 +77,8 @@ Git • GitHub • VS Code • Linux • Postman • Docker (Basics)
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ndebaprasad00&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ndebaprasad00&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ Git • GitHub • VS Code • Linux • Postman • Docker (Basics)
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ndebapraasd00&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
